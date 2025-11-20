@@ -8,7 +8,7 @@ The Competitive Coding Hub is a project aimed at providing a platform for compet
 
 
 
-# Competitive Coding Hub Backend 
+# Competitive Coding Arc Backend 
 
 This repository contains the backend code for the GuruDev Datt project. It provides the server-side functionality and APIs required to support the application.
 
@@ -69,7 +69,7 @@ Please refer to the source code and corresponding route files for detailed infor
 The backend code utilizes a MongoDB database for data storage. The connection details can be configured in the `.env` file, including the database URL and name.
 
 
-# Competitive Coding Hub - Frontend
+# Competitive Coding Arc - Frontend
 
 This is the frontend code for the Competitive Coding Hub application. It is developed using Angular.
 
